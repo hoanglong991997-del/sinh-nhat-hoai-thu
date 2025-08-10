@@ -1,8 +1,2 @@
-# Happy-Birthday-To-You
+# Sinh Nhật Hoài Thu
 Gửi lời chúc mừng sinh nhật đến ai đó!
-
-
-#Không được đụng chạm file:
-- ./firework.js
-- ./particle.js
-- ./sketch.js
